@@ -3,17 +3,21 @@
 
 <h1 align="center">
    Hi! I'm Cole Warner  
-
-   ![Profile Views : ](https://komarev.com/ghpvc/?username=colewarner24)
 </h1>
-   
+     
+<p align="center">
+   <a href="https://colewarner24.github.io/resume/Cole%20Warner%20Resume.pdf"><img src="https://img.shields.io/badge/-_Resume-blue?link=https%3A%2F%2Fcolewarner24.github.io%2Fresume%2FCole%2520Warner%2520Resume.pdf" height=30></a> 
+</p>
+
+
+![Profile Views : ](https://komarev.com/ghpvc/?username=colewarner24)
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
   I am a full stack and machine learning engineer actively seeking full-time opportunities.
   <br>
-  I am a new grad with a degree in computer science from Cal Poly
+  Recent graduate with a degree in Computer Science from Cal Poly
   <br>
-  I’m currently learning test automation software and AWS
+  Currently learning test automation software and AWS
   <br>
   How to reach me 👇
 </p>
