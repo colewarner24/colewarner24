@@ -11,12 +11,11 @@
 <p align="center">
   I am a full stack and machine learning engineer actively seeking full-time opportunities.
   <br>
-  <br>
   I am a new grad with a degree in computer science from Cal Poly
   <br>
-  📚 I’m currently learning test automation software and AWS
+  I’m currently learning test automation software and AWS
   <br>
-  📫 How to reach me 👇
+  How to reach me 👇
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/cole-warner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:19cowarner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a></p>
 <hr>
@@ -25,7 +24,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,java,js,c,cpp,scala,html,rust,react,vue,css,tailwind,nodejs,express,django,gcp,aws,heroku,gut,mysql,mongo,tensorflow,pytorch,figma,dockerfile,spark,hadoop&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=py,java,js,c,cpp,scala,html,rust,react,vue,css,tailwind,nodejs,express,django,gcp,aws,heroku,git,mysql,mongo,tensorflow,pytorch,figma,dockerfile,spark,hadoop&perline=12"  />
 </p>
 
 
@@ -56,9 +55,6 @@
 </p>
 
 <hr>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/colewarner24" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="colewarner24 buy me a coffee" width="230"></a>
-</p>
 
 <!--
 <p  align="center">
