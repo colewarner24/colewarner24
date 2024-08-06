@@ -2,9 +2,9 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+colewarner24;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
-Hi! I'm Cole Warner  
+   Hi! I'm Cole Warner  
 
-![Profile Views : ](https://komarev.com/ghpvc/?username=colewarner24)
+   ![Profile Views : ](https://komarev.com/ghpvc/?username=colewarner24)
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
@@ -25,7 +25,7 @@ Hi! I'm Cole Warner
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,opencv,fastapi,flask,mysql,mongo,sqlite,html,css,js,react,cs,dotnet,cpp,matlab,md,git,vscode,docker,postman,linux,&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=py,java,js,c,cpp,scala,html,rust,react,vue,css,tailwind,nodejs,express,django,gcp,aws,heroku,gut,mysql,mongo,tensorflow,pytorch,figma,dockerfile,spark,hadoop&perline=12"  />
 </p>
 
 
