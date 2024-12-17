@@ -48,7 +48,7 @@
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/colewarner24/bagofmusicBE">
+<a href="https://github.com/colewarner24/solvd-carina-project">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colewarner24&repo=bagofmusicBE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
